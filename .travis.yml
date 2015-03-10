@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: ESObjectPool.xcodeproj
+xcode_scheme: ESObjectPool
+xcode_sdk: iphonesimulator8.1
