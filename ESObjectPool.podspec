@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.license        = { :type => "BSD", :file => "LICENSE" }
   s.homepage       = "https://github.com/e-sites/ESObjectPool"
   s.source         = { :git => "https://github.com/e-sites/ESObjectPool.git", :tag => s.version.to_s }
-  s.source_files   = "Classes"
+  s.source_files   = "ESObjectPool/*.{h,m}"
   s.requires_arc   = false
 end
